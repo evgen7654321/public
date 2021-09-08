@@ -1,2 +1,2 @@
 # public
-public repozitorium
+public repozitorium для проверки в git hub
